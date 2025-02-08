@@ -1,0 +1,6 @@
+version: '3.8'
+
+services:
+  mealie-sync:
+    image:  maroessler/mealie-sync:2025-02-08
+    build: .
