@@ -1,4 +1,4 @@
 services:
   mealie-sync:
-    image:  maroessler/mealie-sync:2025-05-10
+    image:  maroessler/mealie-sync:2025-05-19
     build: .
